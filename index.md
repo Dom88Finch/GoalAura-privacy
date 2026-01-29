@@ -1,6 +1,6 @@
 Privacy Policy
 GoalAura
-Last updated: [insert date]
+Last updated: [29 Jan 2026]
 GoalAura (“we”, “us”, or “our”) operates the GoalAura iOS application (the “App”).
 This Privacy Policy explains how information is collected, used, and disclosed when you use the App. We are committed to protecting your privacy and being transparent about our data practices.
 1. Information We Collect
@@ -77,4 +77,4 @@ Continued use of the App after changes constitutes acceptance of the updated pol
 10. Contact Us
 If you have any questions or concerns about this Privacy Policy, contact us at:
 GoalAura
-📧 Email: [your support email here]
+📧 Email: [goal.aura.app@gmail.com]
