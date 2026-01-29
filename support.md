@@ -8,7 +8,7 @@ Welcome! If you need help or have any questions about using **GoalAura**, we’r
 
 You can reach our support team via email:
 
-**Email:** [goal.aura.app@gmail.com]](mailto:goal.aura.app@gmail.com])
+**Email:** goal.aura.app@gmail.com
 
 We typically respond within 24–48 hours.
 
