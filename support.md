@@ -19,12 +19,6 @@ We typically respond within 24–48 hours.
 **Q: How do I use the AI predictions?**  
 A: Open the app, select a sport or match, and view the AI-generated predictions and analysis.
 
-**Q: Is my email used for marketing?**  
-A: No. Your email is used **only for authentication** and is stored securely in Firebase.
-
-**Q: Can I delete my account?**  
-A: Yes. You can delete your account directly inside the app by navigating to **Account Settings → Delete Account**. Your data will be removed from our system immediately.
-
 ---
 
 ## Privacy Policy
